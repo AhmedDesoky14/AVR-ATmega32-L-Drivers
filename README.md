@@ -9,4 +9,4 @@ Contents:
 6- Universal Synchronous/Asynchronous Receiver/Transmitter (USART) Driver
 7- Watchdog Timer Driver
 8- Common files used in each driver
-These drivers are easily configurable by editing the configurations in the header files
+These drivers is easily configurable by editing the configurations in the header files
