@@ -38,3 +38,8 @@ This repository contains a collection of drivers for operating various units in 
 - **Easy Integration**: These drivers can be quickly integrated into your own projects, providing basic functionality for the ATmega32 microcontroller.
 - **Clear Documentation**: Each driver includes inline comments and explanations to help you understand its usage.
 
+---
+
+## Contact 
+
+For questions or suggestions, please contact me, Ahmed Desoky at "ahmed0201150@gmail.com".
